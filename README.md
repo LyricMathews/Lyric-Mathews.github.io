@@ -26,8 +26,7 @@ This was a little frustating to work with but the code should work now! :D
 >Project for class
 
 
-## Final Project/Bitsy-project
-> Sinners(movie)
-> Sammy and the rest questioning Cornbread about letting him back inside
-> Link:https://www.youtube.com/watch?v=dFrlh5yi1JA
-> I envison this more as talking to the npcs and hopefully getting to ask more questions about Cornbread's motives and true intentions. Like the player would have to question and figure out why he can't just walk in anymore.
+### Project 3
+>
+>>
+>>
